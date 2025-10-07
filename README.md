@@ -1,2 +1,2 @@
-# EDE301
+# EDES301
 Class work
